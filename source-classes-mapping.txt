@@ -1,0 +1,92 @@
+com/pm_app/backend/repositories/DataLoaderDebug.java
+ com.pm_app.backend.repositories.DataLoaderDebug
+com/pm_app/backend/services/SecurityService.java
+ com.pm_app.backend.services.SecurityService
+com/pm_app/backend/configs/IgnoreUnmappedMapperConfig.java
+ com.pm_app.backend.configs.IgnoreUnmappedMapperConfig
+com/pm_app/backend/repositories/ToDoRepository.java
+ com.pm_app.backend.repositories.ToDoRepository
+com/pm_app/backend/configs/WebConfig.java
+ com.pm_app.backend.configs.WebConfig
+com/pm_app/backend/dtos/UserGetDto.java
+ com.pm_app.backend.dtos.UserGetDto
+ com.pm_app.backend.dtos.UserGetDto$UserGetDtoBuilder
+com/pm_app/backend/configs/RequestFilter.java
+ com.pm_app.backend.configs.RequestFilter
+com/pm_app/backend/dtos/UserPostDto.java
+ com.pm_app.backend.dtos.UserPostDto
+ com.pm_app.backend.dtos.UserPostDto$UserPostDtoBuilder
+com/pm_app/backend/models/PermissionEnum.java
+ com.pm_app.backend.models.PermissionEnum
+com/pm_app/backend/mappers/UserMapper.java
+ com.pm_app.backend.mappers.UserMapper
+com/pm_app/backend/controllers/FrontEndController.java
+ com.pm_app.backend.controllers.FrontEndController
+com/pm_app/backend/controllers/ProjectController.java
+ com.pm_app.backend.controllers.ProjectController
+com/pm_app/backend/mappers/TaskMapper.java
+ com.pm_app.backend.mappers.TaskMapper
+com/pm_app/backend/configs/TokenUtil.java
+ com.pm_app.backend.configs.TokenUtil
+com/pm_app/backend/configs/JwtAuthenticationEntry.java
+ com.pm_app.backend.configs.JwtAuthenticationEntry
+com/pm_app/backend/models/StateEnum.java
+ com.pm_app.backend.models.StateEnum
+ com.pm_app.backend.models.StateEnum$1
+ com.pm_app.backend.models.StateEnum$2
+ com.pm_app.backend.models.StateEnum$3
+com/pm_app/backend/controllers/AbstractController.java
+ com.pm_app.backend.controllers.AbstractController
+com/pm_app/backend/services/ProjectService.java
+ com.pm_app.backend.services.ProjectService
+com/pm_app/backend/dtos/ProjectDto.java
+ com.pm_app.backend.dtos.ProjectDto
+ com.pm_app.backend.dtos.ProjectDto$ProjectDtoBuilder
+com/pm_app/backend/models/Task.java
+ com.pm_app.backend.models.Task
+ com.pm_app.backend.models.Task$TaskBuilder
+com/pm_app/backend/repositories/TaskRepository.java
+ com.pm_app.backend.repositories.TaskRepository
+com/pm_app/backend/mappers/ProjectMapper.java
+ com.pm_app.backend.mappers.ProjectMapper
+com/pm_app/backend/models/Substitutable.java
+ com.pm_app.backend.models.Substitutable
+com/pm_app/backend/controllers/SecurityController.java
+ com.pm_app.backend.controllers.SecurityController
+com/pm_app/backend/repositories/ProjectRepository.java
+ com.pm_app.backend.repositories.ProjectRepository
+com/pm_app/backend/controllers/UserController.java
+ com.pm_app.backend.controllers.UserController
+com/pm_app/backend/services/TaskService.java
+ com.pm_app.backend.services.TaskService
+com/pm_app/backend/dtos/SimplifiedDto.java
+ com.pm_app.backend.dtos.SimplifiedDto
+ com.pm_app.backend.dtos.SimplifiedDto$SimplifiedDtoBuilder
+com/pm_app/backend/dtos/SimplifiedUserDto.java
+ com.pm_app.backend.dtos.SimplifiedUserDto
+ com.pm_app.backend.dtos.SimplifiedUserDto$SimplifiedUserDtoBuilder
+com/pm_app/backend/controllers/TasksController.java
+ com.pm_app.backend.controllers.TasksController
+com/pm_app/backend/models/ToDo.java
+ com.pm_app.backend.models.ToDo
+ com.pm_app.backend.models.ToDo$ToDoBuilder
+com/pm_app/backend/services/ToDoService.java
+ com.pm_app.backend.services.ToDoService
+com/pm_app/backend/controllers/ToDoController.java
+ com.pm_app.backend.controllers.ToDoController
+com/pm_app/backend/models/User.java
+ com.pm_app.backend.models.User
+ com.pm_app.backend.models.User$UserBuilder
+com/pm_app/backend/mappers/ToDoMapper.java
+ com.pm_app.backend.mappers.ToDoMapper
+com/pm_app/backend/configs/SecurityConfig.java
+ com.pm_app.backend.configs.SecurityConfig
+com/pm_app/backend/models/Project.java
+ com.pm_app.backend.models.Project
+ com.pm_app.backend.models.Project$ProjectBuilder
+com/pm_app/backend/repositories/UserRepository.java
+ com.pm_app.backend.repositories.UserRepository
+com/pm_app/backend/BackendProjectMenagementAppApplication.java
+ com.pm_app.backend.BackendProjectMenagementAppApplication
+com/pm_app/backend/services/UserService.java
+ com.pm_app.backend.services.UserService
